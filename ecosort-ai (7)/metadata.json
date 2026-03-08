@@ -1,0 +1,5 @@
+{
+  "name": "EcoSort AI",
+  "description": "Automated waste segregation system using computer vision and AI to identify, classify, and provide recycling guidance for waste items.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
